@@ -1,0 +1,28 @@
+{
+  "name": "java-angular-seed",
+  "description": "bla bla bla",
+  "main": "index.html",
+  "authors": [
+    "sylwek"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/samsylsgk/kata-java-angular-seed",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/webapp/bower-components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "1.5.7",
+    "angular-loader": "1.5.7",
+    "angular-mocks": "1.5.7",
+    "angular-route": "1.5.7",
+    "bootstrap": "~3.3.6",
+    "angular": "1.5.7"
+  }
+}
